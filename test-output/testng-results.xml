@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-04T20:45:28 IST" name="Suite" finished-at="2025-02-04T20:45:28 IST" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2025-02-04T20:45:28 IST" name="Test" finished-at="2025-02-04T20:45:28 IST" duration-ms="60">
+      <class name="dummy.FunctionTest">
+        <test-method signature="Test2()[pri:0, instance:dummy.FunctionTest@302c971f]" started-at="2025-02-04T20:45:28 IST" name="Test2" finished-at="2025-02-04T20:45:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- dummy.FunctionTest -->
+      <class name="dummy.MethodTest">
+        <test-method signature="test()[pri:0, instance:dummy.MethodTest@2b40ff9c]" started-at="2025-02-04T20:45:28 IST" name="test" finished-at="2025-02-04T20:45:28 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- dummy.MethodTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
